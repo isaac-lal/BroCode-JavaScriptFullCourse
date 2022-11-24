@@ -1,3 +1,5 @@
+// #2  (00:08:02) variables ❎
+
 /*
 A variable is a container for storing data
 A variable behaves as if it was the value that it contains
